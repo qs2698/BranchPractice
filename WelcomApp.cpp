@@ -6,5 +6,6 @@ void add_farewell(){
 
 int main() {
     std::cout << "Welcome to the app!" << std::endl;
+    add_farewell();
     return 0;
 }
